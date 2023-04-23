@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "3exwi6X0hvZydi4l2ujsUaPWJmH6/xCvVGDHrcQgrJnG8HiXgWPXQ0Lnost1iHDgDnkH0+LeWL/lrLeGvRVi3w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tomerd\\Desktop\\Dependency injection course code - 2\\7.NewDiFramework\\Consumer.ConsoleApp\\Consumer.ConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tomerd\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0-preview.3.23174.8\\microsoft.extensions.dependencyinjection.8.0.0-preview.3.23174.8.nupkg.sha512",
+    "C:\\Users\\tomerd\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0-preview.3.23174.8\\microsoft.extensions.dependencyinjection.abstractions.8.0.0-preview.3.23174.8.nupkg.sha512"
+  ],
+  "logs": []
+}

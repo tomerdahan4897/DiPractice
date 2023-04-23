@@ -1,0 +1,12 @@
+C:\Users\tomerd\Desktop\Dependency injection course code - 2\7.NewDiFramework\Vax\bin\Debug\net7.0\Vax.deps.json
+C:\Users\tomerd\Desktop\Dependency injection course code - 2\7.NewDiFramework\Vax\bin\Debug\net7.0\Vax.dll
+C:\Users\tomerd\Desktop\Dependency injection course code - 2\7.NewDiFramework\Vax\bin\Debug\net7.0\Vax.pdb
+C:\Users\tomerd\Desktop\Dependency injection course code - 2\7.NewDiFramework\Vax\obj\Debug\net7.0\Vax.csproj.AssemblyReference.cache
+C:\Users\tomerd\Desktop\Dependency injection course code - 2\7.NewDiFramework\Vax\obj\Debug\net7.0\Vax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomerd\Desktop\Dependency injection course code - 2\7.NewDiFramework\Vax\obj\Debug\net7.0\Vax.AssemblyInfoInputs.cache
+C:\Users\tomerd\Desktop\Dependency injection course code - 2\7.NewDiFramework\Vax\obj\Debug\net7.0\Vax.AssemblyInfo.cs
+C:\Users\tomerd\Desktop\Dependency injection course code - 2\7.NewDiFramework\Vax\obj\Debug\net7.0\Vax.csproj.CoreCompileInputs.cache
+C:\Users\tomerd\Desktop\Dependency injection course code - 2\7.NewDiFramework\Vax\obj\Debug\net7.0\Vax.dll
+C:\Users\tomerd\Desktop\Dependency injection course code - 2\7.NewDiFramework\Vax\obj\Debug\net7.0\refint\Vax.dll
+C:\Users\tomerd\Desktop\Dependency injection course code - 2\7.NewDiFramework\Vax\obj\Debug\net7.0\Vax.pdb
+C:\Users\tomerd\Desktop\Dependency injection course code - 2\7.NewDiFramework\Vax\obj\Debug\net7.0\ref\Vax.dll
